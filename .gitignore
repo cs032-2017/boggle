@@ -1,0 +1,10 @@
+**/.DS_Store
+target/
+*.swp
+*.tmp
+*.log
+.classpath
+.project
+.settings/
+
+.mvn-classpath

@@ -1,0 +1,9 @@
+### Boggle
+
+Boggle can be run on the command line by using ./run with the following arguments.
+
+--generate                  - prints out a random board, then exits
+--gui [--port <number>]     - launches gui at the specified port number or at default port 4567
+--solve <board string>      - prints all legal words for the given board, then exits
+--score <board string>      - plays boggle using the given board
+

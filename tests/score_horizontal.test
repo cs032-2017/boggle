@@ -1,0 +1,10 @@
+ARGS
+--score help,qqqq,qqqq,qqqq
+INPUT
+help
+sleep
+OUTPUT
+1 help
+Your score was 1
+END
+
