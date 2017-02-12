@@ -1,3 +1,7 @@
+.selected {
+    background-color: cyan;
+}
+
 .board {
     font-family: Verdana,Helvetica;
     padding: 0;
