@@ -1,0 +1,13 @@
+.boardList {
+	border-spacing: 10px;
+    border-collapse: separate;
+	text-align: center;
+}
+
+.boardList td {
+	width: 40%;
+}
+
+h2 {
+	text-align: center;
+}

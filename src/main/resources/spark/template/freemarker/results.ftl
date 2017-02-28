@@ -33,6 +33,7 @@ You missed these
 </#if>
 
 <a href="/play">Play another board.</a>
+<a href="/list">Choose from saved boards.</a>
 
 </#assign>
 <#include "main.ftl">
